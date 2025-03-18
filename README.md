@@ -5,8 +5,8 @@ USDT Flash Software is an innovative tool designed for seamless transactions of 
 
 <a href="https://t.co/jVF44824Mm"><img src="https://i.ibb.co/NnndsNGF/usdt-flash-sender.png" alt="USDT Flash Software" border="0"></a>
 
-Purchase: <a href="https://t.co/jVF44824Mm">usdtfIash.cc</a>
-Support: usdtflashcc@proton.me
+Purchase: <a href="https://t.co/jVF44824Mm">usdtfIash.cc</a> \
+Support: usdtflashcc@proton.me \
 User Guide | Video: https://t.co/isj73C4g16
 
 ## How Does USDT Flash Work?
